@@ -1,0 +1,11 @@
+zadanie 4.1
+18
+
+zadanie 4.2
+2
+145
+1
+40585
+
+zadanie 4.3
+pierwsza liczba: 31968 dlugosc ciagu: 150 dzielnik: 74
