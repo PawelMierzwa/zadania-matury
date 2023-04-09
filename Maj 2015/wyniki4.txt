@@ -1,0 +1,11 @@
+zadanie 4.1
+422
+
+zadanie 4.2
+ilosc liczb podzielnych:
+przez 2: 500
+przez 8: 123
+
+zadanie 4.3
+Najwieksza: 925
+Najmniejsza: 859
